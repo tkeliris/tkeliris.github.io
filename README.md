@@ -1,4 +1,4 @@
-# My personal blog/site
+# Jekyll source for my personal website
 
 ## Info
 - Created using [Jekyll](http://jekyllrb.com/) 
@@ -14,3 +14,12 @@ Have a look around and fork freely. Enjoy!
 - [Lanyon](http://lanyon.getpoole.com/) theme
 - Smashing Magazine: [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 - Loads and loads of projects here on [GitHub](https://github.com)
+
+## License
+
+The following directories and their contents are Copyright Tasos Keliris. You may not reuse anything therein without my permission:
+
+    _posts/
+    images/
+
+	All other directories and files are MIT Licensed.
