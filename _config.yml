@@ -1,26 +1,20 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:            redcarpet
+highlighter:         pygments
 
 # Permalinks
-permalink:        pretty
+permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:            Tasos Keliris
-tagline:          ''
-description:      'the beat of bits'
-url:              https://tkeliris.github.io
-baseurl:          /
+title:               Tasos Keliris
+tagline:             'the beat of bits'
+description:         'hello'
+url:                 https://tkeliris.github.io
+baseurl:             /
 
 author:
-  name:           'Tasos Keliris'
-  url:            https://tkeliris.github.io
-
-paginate:         5
+name:                "Tasos Keliris"
+url:                 "https://tkeliris.github.io"
 
 # Custom vars
-version:          1.0.0
-
-#github:
-#  repo:           https://github.com/
