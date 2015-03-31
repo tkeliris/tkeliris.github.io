@@ -12,7 +12,6 @@ Check out
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
 
-
 Learn more and contribute on [GitHub](https://github.com/poole).
 
 ## Setup
