@@ -13,14 +13,19 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: white;
   font-family: 'Asap', sans-serif;
   font-size: small;
   text-align: center;
 }
 
-h1 { margin-bottom: 1.5em; }
-p { margin: 1em 0; }
+h1, h2, h3, h4, h5, h6 { 
+	margin-bottom: 1.5em; 
+}
+
+h1 { 
+	margin-bottom: 1em;
+}
 
 a {
   color: #000;
@@ -33,16 +38,17 @@ a:hover   { color: #888; }
 /* Home
 /*
 /*****************************************************************************/
-.posts {
+
+ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
 
-.posts li {
+ul.posts li {
   line-height: 1.75em;
 }
 
-.posts span {
+ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
@@ -57,8 +63,8 @@ a:hover   { color: #888; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 600px;
-  margin: 3em auto 2em;
+  width: 42em;
+  margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
 
@@ -89,7 +95,7 @@ a:hover   { color: #888; }
 }
 
 .footer {
-  font-size: 80%;
+  font-size: 90%;
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
@@ -132,6 +138,7 @@ a:hover   { color: #888; }
   color: #000;
   border: 1px solid #ddd;
   background-color: #eef;
+  font-size: 85%;
   padding: 0 .2em;
 }
 
