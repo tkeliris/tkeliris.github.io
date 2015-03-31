@@ -18,7 +18,7 @@ html, body {
 body {
   background-color: white;
   font-family: 'Asap', sans-serif;
-  *font-size: small;
+  font-size: normal;
   text-align: center;
 }
 
@@ -60,7 +60,7 @@ ul.posts li {
 ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
-  font-size: 100%;
+  font-size: 80%;
 }
 
 /*****************************************************************************/
