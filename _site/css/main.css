@@ -42,13 +42,17 @@ a:hover   {
   color: #888;
 }
 
+
+ul {
+  list-style-position: inside;
+} 
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
 
-ul.posts {
+.posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
@@ -57,7 +61,7 @@ ul.posts li {
   line-height: 1.75em;
 }
 
-ul.posts span {
+.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
