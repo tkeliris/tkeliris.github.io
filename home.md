@@ -8,9 +8,11 @@ title: Home
 </p>
 
 Check out
+
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
-[here](/about)
+
+
 Learn more and contribute on [GitHub](https://github.com/poole).
 
 ## Setup
