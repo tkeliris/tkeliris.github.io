@@ -5,33 +5,42 @@
 /*****************************************************************************/
 
 /* Global Reset */
+
 * {
   margin: 0;
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body {
+  height: 100%;
+}
 
 body {
   background-color: white;
   font-family: 'Asap', sans-serif;
-  font-size: small;
+  *font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 { 
-	margin-bottom: 1.5em; 
+  margin-bottom: 1.5em;
 }
 
 h1 { 
 	margin-bottom: 1em;
 }
 
+p {
+  margin: 1em 0;
+}
+
 a {
   color: #000;
   text-decoration: underline;
 }
-a:hover   { color: #888; }
+a:hover   {
+  color: #888;
+}
 
 /*****************************************************************************/
 /*
@@ -61,7 +70,7 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
+  font-size: 100%;
   text-align: justify;
   width: 42em;
   margin: 3em auto 2em auto;
@@ -77,42 +86,42 @@ ul.posts span {
   display: inline-block;
   margin-bottom: 0px;
 }
-.title a:hover {
+.site .title a:hover {
   color: #000;
 }
 
-.header a.extra {
+.site .header a.extra {
   color: #aaa;
   margin-left: 1em;
 }
 
-.header a.extra:hover {
+.site .header a.extra:hover {
   color: #000;
 }
 
-.meta {
+.site .meta {
   color: #aaa;
 }
 
-.footer {
-  font-size: 90%;
+.site .footer {
+  font-size: 80%;
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
 }
 
-.footer .contact {
+.site .footer .contact {
   float: left;
   margin-right: 3em;
 }
 
-.footer .rss {
+.site .footer .rss {
   margin-top: 1.1em;
   margin-right: -.2em;
   float: right;
 }
 
-.footer .rss img {
+.site .footer .rss img {
   border: 0;
 }
 
@@ -122,40 +131,41 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
-/* standard */
-.post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
-  font-size: 12px;
-}
 
-.post ul, .post ol {
-  margin-left: 1.35em;
-}
+  #post pre {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .4em;
+  }
 
-.post code {
-  color: #000;
-  border: 1px solid #ddd;
-  background-color: #eef;
-  font-size: 85%;
-  padding: 0 .2em;
-}
+  #post ul,
+  #post ol {
+    margin-left: 1.35em;
+  }
 
-.post pre code {
-  border: none;
-}
+  #post code {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    font-size: 85%;
+    padding: 0 .2em;
+  }
 
-/* terminal */
-.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-}
+    #post pre code {
+      border: none;
+    }
 
-.post pre.terminal code {
-  background-color: #333;
-}
+  /* terminal */
+
+  #post pre.terminal {
+    border: 1px solid black;
+    background-color: #333;
+    color: white;
+  }
+
+  #post pre.terminal code {
+    background-color: #333;
+  }
+
 
 .post img {
   display: block;
