@@ -3,16 +3,17 @@ layout: page
 title: Publications
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-Check out
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-`stub`
+- **A. Keliris**, M. Maniatakos, *"Demystifying Advanced Persistent Threats for Industrial Control Systems"*, American Society of Mechanical Engineers (ASME) Dynamic Systems & Control Magazine, vol. 5 no. 1, 2017 (In press)
+- C. Fachkha, E. Bou-Harb, **A. Keliris**, N. Memon, M. Ahamad, *"Internet-scale Probing of CPS: Inference, Characterization and Orchestration Analysis"*, Network & Distributed System Security (NDSS) Symposium, 2017 (to appear)
+- **A. Keliris**, H. Salehghaffari, B. Cairl, P. Krishnamurthy, M. Maniatakos, F. Khorrami, *"Machine Learning-based Defense Against Process-Aware Attacks on Industrial Control Systems"*, IEEE International Test Conference (ITC), 2016 [[paper]](http://ieeexplore.ieee.org/document/7805855){:target="_blank"}
+- **A. Keliris**, M. Maniatakos, *"Remote Field Device Fingerprinting Using Device-Specific Modbus Information"*, IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), 2016 [3rd Place in Student Paper Contest](http://events.kustar.ac.ae/mwscas2016/student-paper-contest-winners-announced){:target="_blank"}
+- C. Konstantinou, **A. Keliris**,  M. Maniatakos, *"Taxonomy of Firmware Trojans in Smart Grid Devices"*, Power & Energy Society General Meeting, (PES-GM), 2016 [[paper]](http://ieeexplore.ieee.org/document/7741452){:target="_blank"}
+- **A. Keliris**, C. Konstantinou, N. Tsoutsos, R. Baiad, M. Maniatakos, *"Enabling Multi-Layer Cyber-Security Assessment of Industrial Control Systems through Hardware-in-the-Loop Testbeds"*, 21st Asia and South Pacific Design Automation Conference (ASPDAC), 2016 [[paper]](http://ieeexplore.ieee.org/document/7428063){:target="_blank"}
+- M. Maniatakos, C. Konstantinou, **A. Keliris**, *"Systems and methods for privacy-preserving functional ip verification utilizing fully homomorphic encryption"*, US Patent (Provisional), US 20160254912 A1, 2016 [[patent]](https://www.google.com.na/patents/US20160254912){:target="_blank"}
+- **A. Keliris**, O. Kremmyda, V. Dimitsas, D. Gizopoulos, M. Maniatakos, *"Efficient Parallelization of the Discrete Wavelet Transform Algorithm using Memory-oblivious Optimizations"*, 25th International Workshop on Power And Timing Modeling, Optimization and Simulation (PATMOS), 2015 [Best Paper Award](http://www.chipinbahia.eng.ufba.br/best-paper-awards){:target="_blank"} [[paper]](http://ieeexplore.ieee.org/document/7347583){:target="_blank"}
+- V. Dimitsas, O. Kremmyda, D. Gizopoulos, **A. Keliris**, M. Maniatakos, *"Implementation and Evaluation of DWT on Contemporary NVIDIA GPUs and x86 CPUs"*, GPU Technology Conference, 2015 [[poster]](http://on-demand.gputechconf.com/gtc/2015/posters/GTC_2015_Developer_Algorithms_07_P5186_WEB.pdf){:target="_blank"}
+- C. Konstantinou, **A. Keliris**, M. Maniatakos, *"Privacy-Preserving Functional IP Verification utilizing Fully Homomorphic Encryption"*, Design Automation and Test in Europe, 2015 [[paper]](http://ieeexplore.ieee.org/document/7092410){:target="_blank"}
+- **A. Keliris**, M. Maniatakos, "Investigating large integer arithmetic on Intel Xeon Phi SIMD extensions", 9th Conference on Design and Technology of Integrated Systems in Nanoscale Era (DTIS), 2014 [[paper]](http://ieeexplore.ieee.org/document/6850661){:target="_blank"}
+- **A. Keliris**, V. Kolias, K. Nikita, *"Smart cards in healthcare information systems: benefits and limitations"*, 13th IEEE International Conference on BioInformatics and BioEngineering (BIBE), 2013 [[paper]](http://ieeexplore.ieee.org/document/6701540){:target="_blank"}
+- K. Psathas, **A. Keliris**, K. Nikita, *"Operation of Ingestible Antennas along the Gastrointestinal Tract: Detuning and Performance"*, 13th IEEE International Conference on BioInformatics and BioEngineering (BIBE), 2013 [[paper]](http://ieeexplore.ieee.org/document/6701534){:target="_blank"}
+- **A. Keliris**, S. Golemati, I. Koutsourelakis, E. Vagiakis, K. Nikita, *"Temporal and spectral analysis of snoring sound signals"*, 5th Panhellenic Conference on Biomedical Technology, 2013

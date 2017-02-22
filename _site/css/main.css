@@ -23,10 +23,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 { 
-  margin-bottom: 1.5em;
+  margin-bottom: 0em;
 }
 
 h1 { 
+	color: #000;
 	margin-bottom: 1em;
 }
 
@@ -45,7 +46,13 @@ a:hover   {
 
 ul {
   list-style-position: inside;
-} 
+}
+
+li {
+  /*font-size: 120%;*/
+  margin: 1em 0;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -88,15 +95,16 @@ ul.posts li {
 
 .title {
   display: inline-block;
-  margin-bottom: 0px;
+  margin-bottom: 20px;
 }
 .site .title a:hover {
   color: #000;
 }
 
 .site .header a.extra {
-  color: #aaa;
-  margin-left: 1em;
+	font-size: 130%;
+  color: #0aa;
+  margin-left: 2em;
 }
 
 .site .header a.extra:hover {
@@ -127,6 +135,12 @@ ul.posts li {
 
 .site .footer .rss img {
   border: 0;
+}
+
+.lead {
+	font-size: 18px;
+	font-style: normal;
+	font-family: Monaco, "Courier New", monospace;
 }
 
 /*****************************************************************************/
@@ -169,7 +183,6 @@ ul.posts li {
   #post pre.terminal code {
     background-color: #333;
   }
-
 
 .post img {
   display: block;

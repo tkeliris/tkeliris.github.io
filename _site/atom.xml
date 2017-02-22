@@ -4,7 +4,7 @@
  <title>Tasos Keliris</title>
  <link href="https://tkeliris.github.io/atom.xml" rel="self"/>
  <link href="https://tkeliris.github.io/"/>
- <updated>2015-03-31T14:17:41-04:00</updated>
+ <updated>2017-02-22T22:08:20+04:00</updated>
  <id>https://tkeliris.github.io</id>
  <author>
    <name></name>
@@ -13,19 +13,28 @@
 
  
  <entry>
-   <title>What's Jekyll?</title>
-   <link href="https://tkeliris.github.io/2015/03/31/example/"/>
-   <updated>2015-03-31T00:00:00-04:00</updated>
-   <id>https://tkeliris.github.io/2015/03/31/example</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
+   <title>NYUAD CyberMondays</title>
+   <link href="https://tkeliris.github.io/2017/02/22/cybermondays/"/>
+   <updated>2017-02-22T00:00:00+04:00</updated>
+   <id>https://tkeliris.github.io/2017/02/22/cybermondays</id>
+   <content type="html">&lt;p&gt;Being in an academic environment, I feel it is important to find fun and engaging ways to excite people about research and new things. To that end, one of the things I did this year was to establish a weekly event for the different security teams here at NYU Abu Dhabi (yes there is more than 1 security team). The event, judiciously named NYUAD CyberMondays is hosted every Monday (duh) and lasts for an hour, where we sit together and watch YouTube presentations from top security conferences (e.g., DEFCON, BlackHat) over popcorn. The most interesting part so far are the discussions right after the talks, where different people have different questions and different points of view.&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;So far the event is great (mark 2017 as the year the word great lost its meaning) and it’s gaining traction. I really hope this will carry on and will come to be a tradition of the security labs at NYUAD!&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
+&lt;p&gt;More info on the &lt;a href=&quot;https://tkeliris.github.io/cybermondays&quot; target=&quot;_blank&quot;&gt;CyberMondays site&lt;/a&gt;!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>First post, hooray!</title>
+   <link href="https://tkeliris.github.io/2017/02/21/firstpost/"/>
+   <updated>2017-02-21T00:00:00+04:00</updated>
+   <id>https://tkeliris.github.io/2017/02/21/firstpost</id>
+   <content type="html">&lt;p&gt;I started making this website (… stops writing and goes and checks GitHub commits …) roughly two years ago. Wow, that’s a long time ago. To my defense I was maintaining another personal website with Google Sites. Google Sites is pretty awesome, but for a guy like me it is always attractive to be able to modify and add content to your website by just pushing a git commit, so jekyll and free hosting from github it is!&lt;/p&gt;
 
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My aim is to use this blog as a public repo of cool stuff I find and do, as well as notes-to-self. That way I have a place to archive and quickly dig up that one stackoverflow answer I googled a googol times and followed the same path to discover over and over (and over) again. Also I hope other people will find some of this stuff interesting and useful. Fun fact, did you know googol is \( 10^{100} \)? Also how cool is it to have \( \LaTeX \) in your site?&lt;/p&gt;
+
+&lt;p&gt;If you like what you see site-wise feel free to head over to the &lt;a href=&quot;https://github.com/tkeliris/tkeliris.github.io&quot;&gt;github repo&lt;/a&gt; and have a look under the hood. If you like what you see content-wise and want to chat (or buy me beer, or hire me) drop me a line, I’m always happy and passionate to talk about the stuff I do!&lt;/p&gt;
 </content>
  </entry>
  

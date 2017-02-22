@@ -1,15 +1,15 @@
 # Dependencies
-markdown:            redcarpet
+markdown:            kramdown
 highlighter:         pygments
 
 # Permalinks
 permalink:           pretty
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
 title:               Tasos Keliris
-tagline:             'the beat of bits'
-description:         'hello'
+tagline:             'if [ `whoami` == "root" ]; then echo "GameOver"; fi'
+description:         'koukouviou site'
 url:                 https://tkeliris.github.io
 baseurl:             /
 

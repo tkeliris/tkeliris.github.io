@@ -1,18 +1,32 @@
 ---
 layout: page
-title: Home
+title: Hello world
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome to my site! I am Tasos Keliris, a PhD candidate at the Electrical and Computer Engineering Department of NYU ~~Polytechnic~~ [Tandon School of Engineering](http://engineering.nyu.edu/). I am pursuing my PhD under the supervision of Prof. Michail Maniatakos, director of [MoMA Lab](http://nyuad.nyu.edu/momalab).
 
-Check out
+## Research areas
+- Reverse Engineering
+- Information Security (Red team mindset)
+- Industrial Control Systems/Smart Grid
+- Embedded Systems
+- Hardware Security
+- Parallel Programming
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Skillz
+- Python, C, MATLAB
+- Linux (*nix), bash, Git
+- x86 and ARM assembly
+- IEC 61131-3
+- IDA Pro, Shodan, Wireshark, Software Defined Radios
+- VHDL
+- LaTeX, MS Office, Basic web design (HTML, CSS, jekyll)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Education
+- Ph.D. Candidate in Electrical and Computer Engineering at [NYU Tandon School of Engineering](http://engineering.nyu.edu/)
+- Dipl.Ing. in Electrical and Computer Engineering with Honors from [National Technical University of Athens](http://www.ntua.gr/index_en.html)
 
-## Setup
-`stub`
+## Contact
+You can execute the code below if you trust me enough to run my code on your system, otherwise clicky the buttons below.
+
+`python -c "print('616e617374617369732e6b656c69726973406e79752e656475'.decode('hex'))"`
