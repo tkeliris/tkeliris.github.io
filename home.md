@@ -20,7 +20,7 @@ Welcome to my site! I am Tasos Keliris, a PhD candidate at the Electrical and Co
 - IEC 61131-3
 - IDA Pro, Shodan, Wireshark, Software Defined Radios
 - VHDL
-- LaTeX, MS Office, Basic web design (HTML, CSS, jekyll)
+- \\( \LaTeX \\), MS Office, Basic web design (HTML, CSS, jekyll)
 
 ## Education
 - Ph.D. Candidate in Electrical and Computer Engineering at [NYU Tandon School of Engineering](http://engineering.nyu.edu/)
