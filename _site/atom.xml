@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Tasos Keliris</title>
- <link href="https://tkeliris.github.io/atom.xml" rel="self"/>
- <link href="https://tkeliris.github.io/"/>
- <updated>2017-02-23T01:57:04+04:00</updated>
- <id>https://tkeliris.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-02-23T18:46:44+04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -13,10 +13,29 @@
 
  
  <entry>
+   <title>Research motivation</title>
+   <link href="http://localhost:4000/2017/02/23/motivation/"/>
+   <updated>2017-02-23T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2017/02/23/motivation</id>
+   <content type="html">&lt;p&gt;This post is more of a note-to-self, I’ll keep it here to remind me of what I was like during my Ph.D.&lt;/p&gt;
+
+&lt;p&gt;The graduate office at my university asked me to clarify what I meant on my progress report when I said that “my career goals are driven by societal impact”. This is what I wrote back:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Indeed my career goals since I can remember were shaped by trying to quantify the impact of my work to society. My research and interests revolve around the  security of embedded systems, with a focus (but not limited to) systems used in critical infrastructure. Now more than ever, the dangers and aggressive  integration of the “cyber realm” in our everyday lives are evident. Watch the news or pick up a newspaper on any given day, and chances are there’s going to be a  piece on “the latest security breach”, headlines reading “HACKED!”, or something similar. We are at point in history where cyber attacks have managed to raise  suspicions of having manipulated the [U.S.] election system. Ironically, we are also at the point where we willingly invite all and more embedded devices in our  everyday lives (smart watches, smart fridges, smart [insert-word-here]), trying to build the so-called Internet-of-Things. The effects of weak security mechanisms  on embedded devices could be devastating for our personal privacy, but the dangers don’t stop there. For embedded devices that are deployed in critical  infrastructure, such as systems that provide us with power, water, food, etc., the stakes are much higher.&lt;br /&gt;
+&lt;br /&gt;
+To that end, my research, and extrapolating my current trajectory, my future career, aims to investigate the security of these devices in an effort to  understand weak points, raise awareness about them and propose ways to mitigate these vulnerabilities. With my current point of view, I believe this path is an  effective way for me to maximize my usefulness and leverage my skills towards serving and contributing to society.&lt;br /&gt;
+&lt;br /&gt;
+Favorite book in my library: George Orwell’s  1984.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>NYUAD CyberMondays</title>
-   <link href="https://tkeliris.github.io/2017/02/22/cybermondays/"/>
+   <link href="http://localhost:4000/2017/02/22/cybermondays/"/>
    <updated>2017-02-22T00:00:00+04:00</updated>
-   <id>https://tkeliris.github.io/2017/02/22/cybermondays</id>
+   <id>http://localhost:4000/2017/02/22/cybermondays</id>
    <content type="html">&lt;p&gt;Being in an academic environment, I feel it is important to find fun and engaging ways to excite people about research and new things. To that end, one of the things I did this year was to establish a weekly event for the different security teams here at NYU Abu Dhabi (yes there is more than 1 security team). The event, judiciously named NYUAD CyberMondays is hosted every Monday (duh) and lasts for an hour, where we sit together and watch YouTube presentations from top security conferences (e.g., DEFCON, BlackHat) over popcorn. The most interesting part so far are the discussions right after the talks, where different people have different questions and different points of view.&lt;/p&gt;
 
 &lt;p&gt;So far the event is great (mark 2017 as the year the word great lost its meaning) and it’s gaining traction. I really hope this will carry on and will come to be a tradition of the security labs at NYUAD!&lt;/p&gt;
@@ -27,9 +46,9 @@
  
  <entry>
    <title>First post, hooray!</title>
-   <link href="https://tkeliris.github.io/2017/02/21/firstpost/"/>
+   <link href="http://localhost:4000/2017/02/21/firstpost/"/>
    <updated>2017-02-21T00:00:00+04:00</updated>
-   <id>https://tkeliris.github.io/2017/02/21/firstpost</id>
+   <id>http://localhost:4000/2017/02/21/firstpost</id>
    <content type="html">&lt;p&gt;I started making this website (… stops writing and goes and checks GitHub commits …) roughly two years ago. Wow, that’s a long time ago. To my defence I was maintaining another personal website with Google Sites. Google Sites is pretty awesome, but for a guy like me it is always attractive to be able to modify and add content to your website by just pushing a git commit, so jekyll and free hosting from GitHub it is!&lt;/p&gt;
 
 &lt;p&gt;My aim is to use this blog as a public repo of cool stuff I find and do, as well as notes-to-self. That way I have a place to archive and quickly dig up that one stackoverflow answer I googled a googol times and followed the same path to discover over and over (and over) again. Also I hope other people will find some of this stuff interesting and useful. Fun fact, did you know googol is \( 10^{100} \)? Also how cool is it to have \( \LaTeX \) in your site?&lt;/p&gt;
