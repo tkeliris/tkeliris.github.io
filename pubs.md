@@ -4,7 +4,7 @@ title: Publications
 ---
 
 - **A. Keliris**, M. Maniatakos, *"Demystifying Advanced Persistent Threats for Industrial Control Systems"*, American Society of Mechanical Engineers (ASME) Dynamic Systems & Control Magazine, vol. 5 no. 1, 2017 (In press)
-- C. Fachkha, E. Bou-Harb, **A. Keliris**, N. Memon, M. Ahamad, *"Internet-scale Probing of CPS: Inference, Characterization and Orchestration Analysis"*, Network & Distributed System Security (NDSS) Symposium, 2017 (to appear)
+- C. Fachkha, E. Bou-Harb, **A. Keliris**, N. Memon, M. Ahamad, *"Internet-scale Probing of CPS: Inference, Characterization and Orchestration Analysis"*, Network & Distributed System Security (NDSS) Symposium, 2017 [paper](http://www.internetsociety.org/sites/default/files/ndss2017_08-4_Fachkha_paper.pdf){:target="_blank"}
 - **A. Keliris**, H. Salehghaffari, B. Cairl, P. Krishnamurthy, M. Maniatakos, F. Khorrami, *"Machine Learning-based Defense Against Process-Aware Attacks on Industrial Control Systems"*, IEEE International Test Conference (ITC), 2016 [[paper]](http://ieeexplore.ieee.org/document/7805855){:target="_blank"}
 - **A. Keliris**, M. Maniatakos, *"Remote Field Device Fingerprinting Using Device-Specific Modbus Information"*, IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), 2016 [3rd Place in Student Paper Contest](http://events.kustar.ac.ae/mwscas2016/student-paper-contest-winners-announced){:target="_blank"}
 - C. Konstantinou, **A. Keliris**,  M. Maniatakos, *"Taxonomy of Firmware Trojans in Smart Grid Devices"*, Power & Energy Society General Meeting, (PES-GM), 2016 [[paper]](http://ieeexplore.ieee.org/document/7741452){:target="_blank"}
