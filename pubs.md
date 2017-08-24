@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+- **A. Keliris**, C. Konstantinou, M. Maniatakos, *"And Then the Script-Kiddie Said, "Let There be No Light." Are Cyber-Attacks on the Power Grid Limited to Nation-State Actors?"*, Black Hat USA, 2017 [[paper]](https://www.blackhat.com/docs/us-17/thursday/us-17-Keliris-And-Then-The-Script-Kiddie-Said-Let-There-Be-No-Light-Are-Cyberattacks-On-The-Power-Grid-Limited-To-Nation-State-Actors-wp.pdf){:target="_blank"}
+- C. Konstantinou, M. Sazos, A. Musleh, **A. Keliris**, A. Al-Durra, M. Maniatakos, *"GPS Spoofing Effect on Phase Angle Monitoring and Control in an RTDS-based Hardware-In-The-Loop Environment"*, IET Cyber-Physical Systems: Theory and Application, 2017 [[paper]](http://digital-library.theiet.org/content/journals/10.1049/iet-cps.2017.0033){:target="_blank"}
 - **A. Keliris**, M. Maniatakos, *"Demystifying Advanced Persistent Threats for Industrial Control Systems"*, American Society of Mechanical Engineers (ASME) Dynamic Systems & Control Magazine, vol. 5 no. 1, 2017 (In press)
 - C. Fachkha, E. Bou-Harb, **A. Keliris**, N. Memon, M. Ahamad, *"Internet-scale Probing of CPS: Inference, Characterization and Orchestration Analysis"*, Network & Distributed System Security (NDSS) Symposium, 2017 [paper](http://www.internetsociety.org/sites/default/files/ndss2017_08-4_Fachkha_paper.pdf){:target="_blank"}
 - **A. Keliris**, H. Salehghaffari, B. Cairl, P. Krishnamurthy, M. Maniatakos, F. Khorrami, *"Machine Learning-based Defense Against Process-Aware Attacks on Industrial Control Systems"*, IEEE International Test Conference (ITC), 2016 [[paper]](http://ieeexplore.ieee.org/document/7805855){:target="_blank"}
