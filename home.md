@@ -22,8 +22,9 @@ Welcome to my site! I am Tasos Keliris, a PhD candidate at the Electrical and Co
 - VHDL
 - \\( \LaTeX \\) , MS Office, Basic web design (HTML, CSS, jekyll)
 
-## Education
+## Education/Experience
 - Ph.D. Candidate in Electrical and Computer Engineering at [NYU Tandon School of Engineering](http://engineering.nyu.edu/)
+- Systems Software Engineering Intern at [Red Balloon Security](https://redballoonsecurity.com/)
 - Dipl.Ing. in Electrical and Computer Engineering with Honors from [National Technical University of Athens](http://www.ntua.gr/index_en.html)
 
 ## Contact
