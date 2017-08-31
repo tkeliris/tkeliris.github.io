@@ -12,7 +12,7 @@ relative_permalinks: false
 # Setup
 title:               Tasos Keliris
 tagline:             'if [ `whoami` == "root" ]; then echo "GameOver"; fi'
-description:         'tasos keliris embedded security ICS koukouviou'
+description:         'Tasos Keliris website'
 url:                 https://tkeliris.github.io
 baseurl:             /
 
