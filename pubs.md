@@ -3,6 +3,9 @@ layout: page
 title: Publications
 ---
 
+- **A. Keliris**, C. Konstantinou, M. Sazos, M. Maniatakos, *"Chapter 14 - Open Source Intelligence for Energy Sector Cyberattacks"*, Critical Infrastructure Security and Resilience, ISBN: 978-3-030-00024-0, Springer, (in-press), 2019 [[paper]](https://www.springer.com/us/book/9783030000233){:target="_blank"}
+- **A. Keliris**, C. Konstantinou, M. Sazos, M. Maniatakos, *"Low-budget Energy Sector Cyberattacks via Open Source Exploitation"*, IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), 2018 [Best Paper Award](){:target="_blank"} [[paper]](){:target="_blank"}
+- **A. Keliris**, M. Maniatakos, *"Automating Cybersecurity Studies of Industrial Control Systems"*, IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), 2018 [2nd Place in PhD forum competition](){:target="_blank"} [[paper]](){:target="_blank"}
 - **A. Keliris**, C. Konstantinou, M. Maniatakos, *"And Then the Script-Kiddie Said, "Let There be No Light." Are Cyber-Attacks on the Power Grid Limited to Nation-State Actors?"*, Black Hat USA, 2017 [[paper]](https://www.blackhat.com/docs/us-17/thursday/us-17-Keliris-And-Then-The-Script-Kiddie-Said-Let-There-Be-No-Light-Are-Cyberattacks-On-The-Power-Grid-Limited-To-Nation-State-Actors-wp.pdf){:target="_blank"}
 - C. Konstantinou, M. Sazos, A. Musleh, **A. Keliris**, A. Al-Durra, M. Maniatakos, *"GPS Spoofing Effect on Phase Angle Monitoring and Control in an RTDS-based Hardware-In-The-Loop Environment"*, IET Cyber-Physical Systems: Theory and Application, 2017 [[paper]](http://digital-library.theiet.org/content/journals/10.1049/iet-cps.2017.0033){:target="_blank"}
 - **A. Keliris**, M. Maniatakos, *"Demystifying Advanced Persistent Threats for Industrial Control Systems"*, American Society of Mechanical Engineers (ASME) Dynamic Systems & Control Magazine, vol. 5 no. 1, 2017
