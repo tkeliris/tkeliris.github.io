@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-- **A. Keliris**, M. Maniatakos, *"ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries"*, Network & Distributed System Security (NDSS) Symposium, 2019 [paper](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-5_Keliris_paper.pdf){:target="_blank"}
+- **A. Keliris**, M. Maniatakos, *"ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries"*, Network & Distributed System Security (NDSS) Symposium, 2019 [[paper]](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-5_Keliris_paper.pdf){:target="_blank"}
 - **A. Keliris**, C. Konstantinou, M. Sazos, M. Maniatakos, *"Chapter 14 - Open Source Intelligence for Energy Sector Cyberattacks"*, Critical Infrastructure Security and Resilience, ISBN: 978-3-030-00024-0, Springer, (in-press), 2019 [[paper]](https://www.springer.com/us/book/9783030000233){:target="_blank"}
 - **A. Keliris**, C. Konstantinou, M. Sazos, M. Maniatakos, *"Low-budget Energy Sector Cyberattacks via Open Source Exploitation"*, IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), 2018 [Best Paper Award](){:target="_blank"} [[paper]](){:target="_blank"}
 - **A. Keliris**, M. Maniatakos, *"Automating Cybersecurity Studies of Industrial Control Systems"*, IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), 2018 [2nd Place in PhD forum competition](){:target="_blank"} [[paper]](){:target="_blank"}
